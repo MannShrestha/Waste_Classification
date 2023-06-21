@@ -60,3 +60,6 @@ warnings.filterwarnings('ignore')
 ## Plot training & validation accuracy
 ## Confusion Matrix
 
+## Evaluate the model
+## Test the model using Images
+
