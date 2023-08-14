@@ -3,7 +3,7 @@ Waste DataSet = (https://www.kaggle.com/datasets/techsash/waste-classification-d
 
 ## Data Description:
 
-Dataset is divided into train data (85%) and test data (15%)  .
+Dataset is divided into train data (85%) and test data (15%).
 
 Training data - 22564 images  Test data - 2513 images. Both Training and Testing data has two class "Organic" and "Non-Organic".
 
