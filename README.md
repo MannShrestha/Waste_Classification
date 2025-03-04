@@ -10,7 +10,7 @@ Training data - 22564 images  Test data - 2513 images. Both Training and Testi
 ## Objective:
 The aim of this project is to classify an image that is either organic or Non-organic.
 
-# Download trained model:https://drive.google.com/file/d/1oHwMNWHCAJJb-CfTKmV_MnpeFn3e1XDG/view?usp=drive_link
+* Download trained model:https://drive.google.com/file/d/1oHwMNWHCAJJb-CfTKmV_MnpeFn3e1XDG/view?usp=drive_link
 
 
 # Project Description
