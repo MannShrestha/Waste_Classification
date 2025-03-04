@@ -15,6 +15,24 @@ The aim of this project is to classify an image that is either organic or Non-or
 ### Project Demo:
 [▶ Watch the demo on YouTube](https://www.youtube.com/watch?v=LYFm1ubyQC8)
 
+## Project setup
+**1. Create conda environment**
+```bash
+conda create -n venv python==3.8 -y
+```
+**2. Clone Github repository**
+```bash
+https://github.com/MannShrestha/Waste_Classification.git
+```
+**3. Install requirements**
+```bash
+pip install -r requirements.txt
+```
+
+**4. Run Flask web-app**
+```bash
+python app.py
+```
 
 # Project Description
 ### Importing Libraries:
