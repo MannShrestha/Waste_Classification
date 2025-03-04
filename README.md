@@ -12,6 +12,9 @@ The aim of this project is to classify an image that is either organic or Non-or
 
 * Download trained model:https://drive.google.com/file/d/1oHwMNWHCAJJb-CfTKmV_MnpeFn3e1XDG/view?usp=drive_link
 
+### Project Demo:
+[▶ Watch the demo on YouTube](https://www.youtube.com/watch?v=LYFm1ubyQC8)
+
 
 # Project Description
 ### Importing Libraries:
